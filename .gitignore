@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Credentials
+gcp_tts_key.json
+
+# Model files
+*.pth
+
+# Datasets
+Landmark_Dataset/
+TLFS23*/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+# Datasets / large files
+*.zip
+*.rar
+*.7z
+
+# Model files
+*.pth
